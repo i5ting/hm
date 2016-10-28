@@ -1,5 +1,7 @@
 # ekoa
 
+[![Join the chat at https://gitter.im/i5ting/ekoa](https://badges.gitter.im/i5ting/ekoa.svg)](https://gitter.im/i5ting/ekoa?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 koa 2.x use express-style middlewares 
 
 [![gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/i5ting/ekoa?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
